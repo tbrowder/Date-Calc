@@ -1,0 +1,27 @@
+{
+  "auth" : "github:tbrowder",
+  "author" : "github:tbrowder",
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "Gregorian calendar date calculations",
+  "license" : "Artistic-2.0",
+  "name" : "Date::Calc",
+  "perl" : "6.c",
+  "provides" : {
+    "Date::Calc" : "lib/Date/Calc.pm6",
+  },
+  "resources" : [ ],
+  "source-type" : "git",
+  "source-url" : "git://github.com/tbrowder/Date-Calc-Raku.git",
+  "support" : {
+    "bugtracker" : "https://github.com/tbrowder/Date-Calc-Raku/issues"
+  },
+  "tags" : [
+    "date",
+    "calc",
+    "CPAN5"
+  ],
+  "test-depends" : [
+    "Test::META"
+  ],
+}
