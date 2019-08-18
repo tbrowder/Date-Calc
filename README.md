@@ -16,6 +16,6 @@ in their names return Boolean values.)
 
 For complete details of the module's contents, see the documentation
 on the CPAN site for
-[Date::Calc](htt[s://metacpan.org/pod/distribution/Date-Calc/lib/Date/Calc.pod).
+[Date::Calc](https://metacpan.org/pod/distribution/Date-Calc/lib/Date/Calc.pod).
 
 # Available functons
