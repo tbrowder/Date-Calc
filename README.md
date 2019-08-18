@@ -11,9 +11,8 @@ Implemented functions are available with two naming systems:
 all letters after the first in lower case and underscores changed to hyphens). For
 example, `Days_in_Year` will also be available as `Days-in-year`.
 (The case of the first letter is preserved to satisfy the convention
-in the original Date::Calc that functions with upper-case first letters
-in their names return Boolean values.
-TODO check veracity of the previous statement)
+in the original Date::Calc that functions with lower-case first letters
+in their names return Boolean values.)
 
 For complete details of the module's contents, see the documentation
 on the CPAN site for
