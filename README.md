@@ -1,5 +1,6 @@
-# Date-Calc-Raku
-Raku (aka Perl 6) port of Perl's module Date::Calc
+# Date::Calc
+
+## A Raku (aka Perl 6) port of Perl's module Date::Calc
 
 This is a partial implementation of `Date::Calc`. Currently usable
 functions are listed below.  Submit an issue if there is a `Date::Calc`
