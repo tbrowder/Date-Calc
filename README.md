@@ -18,4 +18,10 @@ For complete details of the module's contents, see the documentation
 on the CPAN site for
 [Date::Calc](https://metacpan.org/pod/distribution/Date-Calc/lib/Date/Calc.pod).
 
-# Available functons
+## Available functons
+
+# LICENSE
+
+Artistic-2.0
+
+# COPYRIGHT
