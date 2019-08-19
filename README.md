@@ -20,15 +20,17 @@ on the CPAN site for
 
 ## Available functions
 
-+ Add_Delta_DHMS
-+ Add_Delta_Days
-+ Date_to_Days
-+ Date_to_Time
-+ Day_of_Week
-+ Day_of_Year
-+ Days_in_Year
-+ This_Year
-+ Timezone
+| Usual name | Kebab name |
+| :---        | :--- |
+| Add_Delta_DHMS | Add-delta-dhms |
+| Add_Delta_Days | Add-delta-days |
+| Date_to_Days | Date-to-days |
+| Date_to_Time | Date-to-time |
+| Day_of_Week | Day-of-week |
+| Day_of_Year | Day-of-year |
+| Days_in_Year | Days-in-year |
+| This_Year | This-year |
+| Timezone | Timezone |
 
 # LICENSE
 
