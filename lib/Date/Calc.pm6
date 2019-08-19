@@ -80,7 +80,8 @@ sub month-to-mm($mon is copy) is export(:WALL :month-to-mm) {
     if 0 && $debug {
         say "DEBUG: month in '$mon'";
     }
-    # takes first three letters and make lower-case
+
+    # take first three letters and make lower-case
     $mon = $mon.comb[0..2].join.lc;
     my $mm = '00';
     given $mon {
