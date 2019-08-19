@@ -4,7 +4,7 @@
 
 This is currently a partial implementation of `Date::Calc`. Currently usable
 functions are listed below.  Submit an issue if there is a `Date::Calc`
-function you want added to the list.  
+function you want added to the list.
 
 Implemented functions are available with two naming systems:
 (1) named as in the original module and (2) named in Raku's kebab case (with
@@ -18,7 +18,17 @@ For complete details of the module's contents, see the documentation
 on the CPAN site for
 [Date::Calc](https://metacpan.org/pod/distribution/Date-Calc/lib/Date/Calc.pod).
 
-## Available functons
+## Available functions
+
++ Add_Delta_DHMS
++ Add_Delta_Days
++ Date_to_Days
++ Date_to_Time
++ Day_of_Week
++ Day_of_Year
++ Days_in_Year
++ This_Year
++ Timezone
 
 # LICENSE
 
